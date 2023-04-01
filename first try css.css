@@ -97,5 +97,6 @@ body{
     padding: 10px;
 }
 .bigdiv{
+    display: block;
     width: 80%;
 }
