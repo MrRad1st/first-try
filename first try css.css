@@ -73,6 +73,7 @@ body{
 }
 
 .second_div{
+    width: 30%;
     display: inline-block;
     border-radius: 20px;
     background-color: rgb(169, 52, 163);
@@ -84,6 +85,7 @@ body{
     padding: 10px;
 }
 .third_div{
+    width: 30%;
     display: inline-block;
     border-radius: 20px;
     background-color: rgb(169, 52, 163);
@@ -93,4 +95,7 @@ body{
     /* margin-right: 15%; */
     /* margin-left: 15%; */
     padding: 10px;
+}
+.bigdiv{
+    width: 80%;
 }
