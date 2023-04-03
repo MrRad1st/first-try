@@ -6,3 +6,5 @@ https://www.reddit.com/r/webdev/comments/32h48p/comment/cqb5jw9/?utm_source=shar
 WORKS!!!!!!!
 :D
 NOW LETS SEE IF I CAN EDIT A TXT FILE USING JAVASCRIPT INSIDE MY HTML WEBSITE!
+
+editing a txt file on phone
