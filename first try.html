@@ -3,12 +3,33 @@
     <head>
         <title>MY FIRST WEBSITE</title>
         <link rel="stylesheet" href="first try css.css">
+        
+<!--          -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+$( document ).ready(function() {
+
+    $.get( "t1.txt", function( data ) {
+
+      $( "#my_p" ).html( data );
+
+    });
+
+});
+
+</script>
+<!--          -->
+        
+        
     <head>
     <body>
         <main>
             <div class="middle">
                 <h1 class="menutitle">Cake Shop</h1>
                 <h1>HEYYYYYYY</h1>
+                <p id="my_p"></p>
 
 <!--                 <div><p><?php include('myFile.txt'); ?></p></div> -->
 
